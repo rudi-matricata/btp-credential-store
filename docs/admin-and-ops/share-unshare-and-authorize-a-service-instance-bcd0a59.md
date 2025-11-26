@@ -344,7 +344,7 @@ Amazon Web Services \(AWS\)
 </td>
 <td valign="top">
 
-Europe \(Frankfurt\)
+Europe \(Frankfurt\)    
 
 </td>
 <td valign="top">
@@ -813,4 +813,9 @@ US East \(Virginia\)
 </td>
 </tr>
 </table>
+
+**Related Information**  
+
+
+[Discovery Center: Credential Store](https://discovery-center.cloud.sap/index.html#/serviceCatalog/credential-store?tab=service_plan&region=all)
 
